@@ -10,4 +10,8 @@ def LoadFile (file_name):
     line_list = file.splitlines()
     return line_list
 
-def UpdateString (string_1, string_2, index)
+def UpdateString (string_1, string_2, index):
+    print()
+
+def FindWordCount (list, string):
+    return
