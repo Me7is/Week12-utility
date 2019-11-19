@@ -18,3 +18,6 @@ def FindWordCount (list, string):
 
 def ScoreFinder (list_1, list_2, string):
     return
+
+def Union (list_1, list_2):
+    return
