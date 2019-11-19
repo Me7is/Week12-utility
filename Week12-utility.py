@@ -15,3 +15,6 @@ def UpdateString (string_1, string_2, index):
 
 def FindWordCount (list, string):
     return
+
+def ScoreFinder (list_1, list_2, string):
+    return
