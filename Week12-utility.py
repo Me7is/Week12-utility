@@ -9,3 +9,5 @@ def LoadFile (file_name):
     file = open(file_name, 'r').read()
     line_list = file.splitlines()
     return line_list
+
+def UpdateString (string_1, string_2, index)
