@@ -24,3 +24,6 @@ def Union (list_1, list_2):
 
 def Intersection (list_1, list_2):
     return
+
+def NotIn (list_1, list_2):
+    return
