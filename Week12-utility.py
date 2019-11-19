@@ -21,3 +21,6 @@ def ScoreFinder (list_1, list_2, string):
 
 def Union (list_1, list_2):
     return
+
+def Intersection (list_1, list_2):
+    return
